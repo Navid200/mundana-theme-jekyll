@@ -1,6 +1,6 @@
 ---
 title: "Test"
-permalink: "/buy-me-a-coffee.html"
+permalink: "/Test.html"
 ---
 
 This is a test.  
