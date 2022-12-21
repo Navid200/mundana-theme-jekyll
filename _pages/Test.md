@@ -1,6 +1,6 @@
 ---
 title: "Test"
-layout: "default"
+layout: default
 permalink: "/Test.html"
 ---
 
