@@ -6,4 +6,5 @@ This is a test.
 [Test2](./_pages/Test2.md)  
 [Test3](./_pages/Test3.md)  
 [Test4](./_pages/Test4.md)  
+[Stake](./_pages/Stake.md)  
   
