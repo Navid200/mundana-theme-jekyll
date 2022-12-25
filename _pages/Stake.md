@@ -4,7 +4,7 @@ permalink: "/docs/Stake.html"
 ---
 
 Let's talk about something else.  
-Speed is the ratio of distance to time.  
+Stake is not steak!  
 [Test](./Test.md)  
 [Speed](./Speed.md)  
   
