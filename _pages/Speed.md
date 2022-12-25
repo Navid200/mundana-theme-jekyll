@@ -1,6 +1,6 @@
 ---
 title: "Speed"
-permalink: "/docs/Test4.html"
+permalink: "/docs/Speed.html"
 ---
 
 Let's talk about something else.  
